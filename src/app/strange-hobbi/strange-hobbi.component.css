@@ -1,0 +1,18 @@
+p{
+	color:blue;
+	font-size: 30px;
+}
+img{
+	width:400px;
+	margin-right: 20px;
+}
+.bat{
+	background-color:aquamarine;
+
+}
+input{
+	width: 200px;
+}
+.forma{
+	display: none;
+}
